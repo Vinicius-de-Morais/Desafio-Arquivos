@@ -1,0 +1,15 @@
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\Desafio-Arquivo.csproj.AssemblyReference.cache
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\Desafio-Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\Desafio-Arquivo.AssemblyInfoInputs.cache
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\Desafio-Arquivo.AssemblyInfo.cs
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\Desafio-Arquivo.csproj.CoreCompileInputs.cache
+E:\Desafio04\Desafio-Arquivo\bin\Debug\net6.0\Desafio-Arquivo.exe
+E:\Desafio04\Desafio-Arquivo\bin\Debug\net6.0\Desafio-Arquivo.deps.json
+E:\Desafio04\Desafio-Arquivo\bin\Debug\net6.0\Desafio-Arquivo.runtimeconfig.json
+E:\Desafio04\Desafio-Arquivo\bin\Debug\net6.0\Desafio-Arquivo.dll
+E:\Desafio04\Desafio-Arquivo\bin\Debug\net6.0\Desafio-Arquivo.pdb
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\Desafio-Arquivo.dll
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\refint\Desafio-Arquivo.dll
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\Desafio-Arquivo.pdb
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\Desafio-Arquivo.genruntimeconfig.cache
+E:\Desafio04\Desafio-Arquivo\obj\Debug\net6.0\ref\Desafio-Arquivo.dll
