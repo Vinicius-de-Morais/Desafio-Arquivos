@@ -1,0 +1,17 @@
+E:\Desafio04\Desafio-Arquivo-WF\bin\Debug\net6.0-windows\Desafio-Arquivo-WF.exe
+E:\Desafio04\Desafio-Arquivo-WF\bin\Debug\net6.0-windows\Desafio-Arquivo-WF.deps.json
+E:\Desafio04\Desafio-Arquivo-WF\bin\Debug\net6.0-windows\Desafio-Arquivo-WF.runtimeconfig.json
+E:\Desafio04\Desafio-Arquivo-WF\bin\Debug\net6.0-windows\Desafio-Arquivo-WF.dll
+E:\Desafio04\Desafio-Arquivo-WF\bin\Debug\net6.0-windows\Desafio-Arquivo-WF.pdb
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.csproj.AssemblyReference.cache
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio_Arquivo_WF.Form1.resources
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.csproj.GenerateResource.cache
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.AssemblyInfoInputs.cache
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.AssemblyInfo.cs
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.csproj.CoreCompileInputs.cache
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.dll
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\refint\Desafio-Arquivo-WF.dll
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.pdb
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\Desafio-Arquivo-WF.genruntimeconfig.cache
+E:\Desafio04\Desafio-Arquivo-WF\obj\Debug\net6.0-windows\ref\Desafio-Arquivo-WF.dll
