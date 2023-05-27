@@ -51,7 +51,7 @@ namespace Desafio_Estacionamento
         {
             DataSaida = GerarData();
             HoraSaida = GerarHora();
-            TempoPermanencia = HoraSaida.TotalMinutes - HoraEntrada.TotalMinutes;
+            TempoPermanencia = Math.Ceiling(HoraSaida.TotalMinutes - HoraEntrada.TotalMinutes);
             ValorCobrado = Math.Ceiling(TempoPermanencia/60) * 5.0;
         }
 
@@ -90,11 +90,11 @@ namespace Desafio_Estacionamento
             return base.GetHashCode();
         }
 
-        public override string? ToString()
+        public override string ToString()
         {
 
-            if (ValorCobrado >= 0)
-                return this.Tipo + "-" + this.Placa + "-" + this.Modelo + "-" + this.DataEntrada.ToString("dd/mm/yyyy") + "-" + this.HoraEntrada;
+            if (this.ValorCobrado >= 0)
+                return this.Tipo + "-" + this.Placa + "-" + this.Modelo + "-" + this.DataEntrada.ToString("dd/mm/yyyy") + "-" + this.ValorCobrado;
             else
                 return this.Tipo + "-" + this.Placa + "-" + this.Modelo + "-" + this.TempoPermanencia + "-" + this.ValorCobrado;
         }

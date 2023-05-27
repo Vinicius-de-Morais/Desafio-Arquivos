@@ -52,10 +52,13 @@ namespace Desafio_Estacionamento
             try
             {
                 Veiculo veiculo = GetVeiculo();
-                eventHandler.remove(veiculo);
+                //eventHandler.remove(veiculo);
+                veiculo.GerarDataHoraEntrada();
+                veiculo.GerarDataHoraSaida();
+
                 entryBox.DataSource = getEntryList();
                 outBox.DataSource = getOutList();
-                entryLabel.Text = veiculo.TempoPermanencia.ToString();
+                entryLabel.Text = veiculo.ValorCobrado.ToString();
             }
             catch (Exception exception)
             {
